@@ -4,4 +4,4 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /README.md
-/main.test.js
+main.test.js
